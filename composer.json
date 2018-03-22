@@ -1,7 +1,7 @@
 {
-    "name": "cradlephp/cradle-profile",
+    "name": "cradlephp/cradle-elastic",
     "type": "cradle-package",
-    "description": "Profile Schema for CradlePHP",
+    "description": "Elastic Package for CradlePHP",
     "minimum-stability": "dev",
     "keywords": [
         "cradle",
@@ -10,8 +10,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Christian Blanquera",
-            "email": "cblanquera@openovate.com"
+            "name": "Clark Galgo",
+            "email": "clark@dev-engine.net"
         }
     ],
     "require-dev": {
